@@ -1,7 +1,7 @@
 # codealpha_tasks
 # 💻 C++ Projects 
 
-This repository contains three C++ mini-projects implemented using object-oriented programming. These projects were built as part of academic assignments to strengthen problem-solving and software design skills in C++.
+This repository contains three C++ mini-projects implemented using object-oriented programming. 
 
 ---
 
