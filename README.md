@@ -75,6 +75,11 @@ A simple banking management system using OOP concepts. It includes classes for c
 - Login system or authentication
 - Interest calculation for savings accounts
 
+### 🖥️ Sample Output
+
+![Banking  System Output](![Screenshot 2025-05-02 184259](https://github.com/user-attachments/assets/adad60f7-4da4-4598-98e4-0ac7a650dcf4)
+)
+
 ---
 
 ## 🛠️ Technologies Used
