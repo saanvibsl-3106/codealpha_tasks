@@ -76,7 +76,7 @@ A simple banking management system using OOP concepts. It includes classes for c
 - Interest calculation for savings accounts
 
 ### 🖥️ Sample Output
-![Screenshot 2025-05-02 184259](https://github.com/user-attachments/assets/95412aa9-df8a-42af-a1c9-5f494bb6ebbc)
+![Screenshot 2025-05-02 184259](https://github.com/user-attachments/assets/5b6eaa2c-0fd2-4c49-8677-a916ef0ed944)
 
 ---
 
