@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d95babba-9c31-420d-a3bc-01c2f8a829ff)# codealpha_tasks
+# codealpha_tasks
 # 💻 C++ Projects – Semester Assignments
 
 This repository contains three C++ mini-projects implemented using object-oriented programming. These projects were built as part of academic assignments to strengthen problem-solving and software design skills in C++.
