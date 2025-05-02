@@ -1,4 +1,4 @@
-# codealpha_tasks
+![image](https://github.com/user-attachments/assets/d95babba-9c31-420d-a3bc-01c2f8a829ff)# codealpha_tasks
 # 💻 C++ Projects – Semester Assignments
 
 This repository contains three C++ mini-projects implemented using object-oriented programming. These projects were built as part of academic assignments to strengthen problem-solving and software design skills in C++.
@@ -29,6 +29,10 @@ Run the program and input:
 - Number of courses
 - For each course: credit and grade
 
+### 🖥️ Sample Output
+![Screenshot 2025-05-02 185011](https://github.com/user-attachments/assets/1d6191c5-3380-4cf3-8ed2-284b5e653c7f)
+
+
 The program will display the GPA and CGPA.
 
 ---
@@ -45,6 +49,10 @@ This program solves any valid 9x9 Sudoku puzzle using the backtracking algorithm
 
 ### ▶️ Usage
 Modify the initial `grid[9][9]` in `main()` with your puzzle (use 0 for empty cells). The program will display the solved board.
+
+### 🖥️ Sample Output
+![Screenshot 2025-05-02 184856](https://github.com/user-attachments/assets/044c6b68-7135-4b85-a873-5006cd46db17)
+
 
 ### 💡 Optional Enhancements
 - GUI using Qt or SFML
